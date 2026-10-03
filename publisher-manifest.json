@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3a1d7eba7e0898ac3948bbd3",
+  "owner": "euqqmbpu",
+  "repo": "page-c8c026e6ca54bf63409f7b69",
+  "title": "双骑",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c8c026e6ca54bf63409f7b69",
+      "a": "双骑",
+      "b": "",
+      "entity": "双骑",
+      "brand": "双骑",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cc3b0fd0ca1895964eea3314fda61065f1238791cdf4afef01f1ee1e737c8d40",
+      "content": {
+        "keyword1": "双骑",
+        "keyword2": "",
+        "primary_entity": "双骑",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "双骑提供稳定高速的VPN梯子与机场订阅服务，支持多平台官方客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活，节点优质。",
+          "AI_DESCRIPTION": "双骑提供稳定高速的VPN梯子与机场订阅服务，支持多平台官方客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活，节点优质。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:17px;line-height:1.7;background-color:#0b1a2e;color:#e2e8f0;width:100%}a{color:#22d3ee;text-decoration:none}main{display:block;max-width:720px;margin:0 auto;padding:0 18px 72px}h1{font-size:2.6rem;font-weight:700;text-align:center;color:#67e8f9;letter-spacing:0.12em;padding:96px 12px 40px;margin:0;line-height:1.25}.lead{text-align:center;color:#94a3b8;font-size:1.08rem;margin:0 0 56px;padding:0 8px}section{margin-bottom:52px}h2{font-size:1.42rem;color:#22d3ee;margin:0 0 14px;padding-bottom:8px;border-bottom:1px solid #164e63}h3{font-size:1.12rem;color:#67e8f9;margin:18px 0 8px}p,li{margin:0 0 12px}p,li,details p{color:#cbd5e1}ul{padding-left:1.2em}.plan{background:#132337;border:1px solid #1e3a5f;border-radius:8px;padding:18px 20px;margin-bottom:14px}.plan.featured{border-color:#22d3ee;background:#0c2d44}.plan h3{margin-top:0}.price{font-size:1.35rem;color:#67e8f9;font-weight:700;margin-bottom:4px}.annual{font-size:0.92rem;color:#94a3b8}#faq{padding-top:8px}details{background:#132337;border-left:4px solid #22d3ee;border-radius:0 6px 6px 0;padding:14px 16px;margin-bottom:12px}summary{font-weight:600;color:#a5f3fc}details p{margin:10px 0 0}.ad{background:#164e63;padding:16px;text-align:center;margin:36px 0;border-radius:6px;font-size:0.95rem;color:#cffafe}#sitemap ul,nav ul{list-style:none;padding:0;margin:0}#sitemap li{margin:8px 0}nav ul{display:flex;flex-wrap:wrap;gap:10px 18px}footer{font-size:0.9rem;color:#64748b;text-align:center;padding:36px 18px 48px;border-top:1px solid #1e3a5f;line-height:1.6}</style><main><h1>双骑</h1><p class=\"lead\">专业网络加速服务 · 机场订阅与官方客户端下载</p><section id=\"intro\"><h2>品牌简介</h2><p>双骑是面向个人与团队的网络加速品牌，专注提供稳定、低延迟的跨境连接体验。我们以机场订阅模式运营，用户可按需选择流量套餐，通过官方客户端或通用协议快速接入全球节点。无论是解锁流媒体、加速在线游戏，还是保障远程办公，双骑都力求简单可靠。本站为双骑官方网站，提供正版客户端下载与最新套餐信息。</p><p>双骑坚持线路质量优先，持续优化亚洲与欧美节点，部分套餐包含 IPLC 专线，适合对延迟敏感的用户。所有服务均支持多设备同时在线，订阅后即可在官网或客户端内管理流量与节点。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体解锁与高清播放</h3><p>双骑节点针对主流流媒体进行优化，支持常见国际视频与音乐平台的原生解锁。旗舰版及以上套餐提供全节点流媒体支持，减少缓冲，适合长时间观看与多设备轮流使用。</p><h3>游戏加速与低延迟对战</h3><p>通过 IPLC 专线与游戏优化路由，双骑可降低热门对战与开放世界游戏的延迟与丢包。晚高峰仍能保持相对稳定的连接质量，适合休闲与进阶玩家在官网完成订阅后即用。</p><h3>跨境办公与在线学习</h3><p>远程会议、云文档协作、学术资源访问以及海外课程平台，均可借助双骑稳定通道完成。团队版支持更多设备与定制路由，方便小团队共用同一订阅。</p><h3>日常浏览与多设备共享</h3><p>基础版即可满足日常网页、社交与轻量下载需求。家庭成员或个人多台设备可同时在线，流量共享并按月重置，使用情况可在客户端中查看。</p></section><section id=\"howto\"><h2>操作说明</h2><h3>订阅套餐</h3><p>浏览本页套餐方案，按流量与同时在线设备数选择基础版、旗舰版或团队版。支持按月或按年支付，年付价格更优惠。完成支付后将获得专属订阅链接，请妥善保存并仅用于本人设备。</p><h3>下载并安装客户端</h3><p>在「官方客户端下载」区域获取对应系统的安装说明。Windows 与 macOS 提供桌面端，Android 提供移动端，iOS 请按教程使用兼容客户端。请始终通过双骑官网获取，避免第三方来源带来的安全风险。</p><h3>导入订阅并选择节点</h3><p>打开客户端，找到订阅或配置导入入口，粘贴官网提供的链接并更新节点列表。选择延迟较低的线路后点击连接。首次使用可先测试香港或日本节点；游戏场景优先尝试标注专线的线路。</p><h3>日常使用建议</h3><p>连接成功后即可正常访问。建议定期更新客户端与订阅。如遇个别站点无法打开，可切换节点或调整代理模式。流量消耗可在客户端查看。请合理使用服务，并遵守适用的法律法规与套餐条款。</p></section><section id=\"plans\"><h2>套餐方案</h2><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版 · 推荐</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div><p>所有套餐流量按自然月重置，未使用部分不结转。年付用户按十二个月额度每月重置，适合长期使用。具体以订阅时展示的说明为准。</p></section><section id=\"download\"><h2>官方客户端下载</h2><p>双骑官网提供各平台客户端获取入口，持续跟进系统与协议更新。下载安装后，使用订阅链接一键导入即可开始网络加速。我们建议始终通过本站了解版本与安装方式。</p><p><a href=\"#download\">Windows 官方客户端</a>　<a href=\"#download\">macOS 官方客户端</a>　<a href=\"#download\">Android 客户端</a>　<a href=\"#howto\">iOS 使用教程</a>　<a href=\"#download\">通用订阅（Clash 等）</a></p><p>桌面端支持系统代理、规则分流与 TUN 模式；移动端可快捷开关连接。iOS 需使用支持订阅的兼容客户端，并按照操作说明完成配置。请勿将安装包或订阅链接随意转发。</p></section><section id=\"nodes\"><h2>节点与线路说明</h2><p>双骑节点覆盖香港、日本、新加坡、台湾、韩国、美国西海岸、美国东部、英国与德国等地。普通线路适合网页与视频，IPLC 专线面向游戏与实时通话优化，延迟更低、抖动更小。旗舰与团队用户可优先接入高带宽节点。</p><p>流媒体解锁采用优化 IP，减少地区验证失败。如遇个别平台限制，可尝试切换同区域其他节点。线路会进行日常维护，重大调整将在官网同步说明，实际体验以连接测试为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>双骑是官方机场服务吗？如何确认官网？</summary><p>是的，本站为双骑官方网站。请通过可信任渠道进入，认准品牌名称「双骑」以及本页套餐与客户端说明。不要轻信仿冒站点或私下交易，以免造成账号或资金损失。</p></details><details><summary>双骑客户端支持哪些系统？能否使用第三方软件？</summary><p>官方覆盖 Windows、macOS、Android，并提供 iOS 配置说明。同时兼容 Clash 内核及常见订阅客户端，导入链接即可使用。Linux 用户可选用兼容 Clash 的工具。具体安装步骤见操作说明。</p></details><details><summary>流量如何计算？用完后能否继续使用？</summary><p>流量按实际跨境数据计量，套餐分别为每月 100GB、300GB 或 1000GB，按自然月重置。流量用尽后连接将受限，可升级套餐或等待下月重置。客户端内可查看已用与剩余流量。</p></details><details><summary>是否支持退款？年付和月付有什么区别？</summary><p>新订阅用户在未产生有效使用的 24 小时内可申请全额退款，超时或已使用则不再退款。年付价格更优惠，流量仍按月重置，适合长期稳定使用双骑加速服务的用户。</p></details><details><summary>游戏加速效果如何？哪些套餐包含 IPLC？</summary><p>旗舰版与团队版包含 IPLC 专线游戏加速优化，用于降低热门游戏延迟。实际效果与本地网络、运营商和游戏服务器有关，建议先体验旗舰版。基础版以普通线路为主，更适合日常浏览与非实时场景。</p></details><details><summary>如何获得客服支持？大概多久能收到回复？</summary><p>所有用户可通过官网工单提交问题。基础版多在工作时间内回复；旗舰版提供 7x24 优先工单；团队版另有专属客户经理。遇到线路异常时，可先切换节点，再提交工单说明所在地区与使用套餐。</p></details><details><summary>使用双骑需要注意哪些事项？</summary><p>请从官网获取客户端并妥善保管订阅链接，不要分享以免流量被占用。请遵守当地法律法规，不得将服务用于违法用途。合理规划流量，避免短时间大流量占用套餐额度，并定期检查客户端更新。</p></details></section><div class=\"ad\">广告：双骑旗舰版年付通道已开放，适合需要稳定流媒体解锁与游戏加速的用户在官网了解套餐详情。</div><section id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#howto\">操作说明</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#download\">官方客户端下载</a></li><li><a href=\"#nodes\">节点与线路</a></li><li><a href=\"#faq\">常见问题</a></li></ul></section><section><h2>友情链接</h2><nav><ul><li><a href=\"#howto\">客户端使用指南</a></li><li><a href=\"#scenes\">流媒体解锁说明</a></li><li><a href=\"#nodes\">游戏延迟优化建议</a></li><li><a href=\"#faq\">机场订阅常见问题</a></li></ul></nav></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>双骑官方网站 · 网络加速与机场订阅服务</p><p>请通过官网了解套餐、下载客户端并完成订阅。本页用于介绍双骑产品与使用方式。</p></footer>",
+          "hash": "64618900ae1074dab047f72921d48f5c23656ac2a3c9f0e92fac036dd030c777",
+          "seo": {
+            "title": "双骑官网 - 双骑VPN网络加速器与机场订阅 | 官方客户端下载",
+            "keywords": "双骑,双骑VPN,双骑机场,双骑官网,网络加速器,梯子,客户端下载,机场订阅",
+            "description": "双骑提供稳定高速的VPN梯子与机场订阅服务，支持多平台官方客户端下载，覆盖流媒体解锁、游戏加速与跨境办公，套餐灵活，节点优质。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "baoyue0597.cn",
+    "host": "p-15276bac9c.baoyue0597.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "baoyue0597.cn",
+      "url": "https://baoyue0597.cn/",
+      "label": "觅云(MeCloud)",
+      "apex": "baoyue0597.cn",
+      "kind": null,
+      "identity": "urjypeggv/page-3e311654fccf5961e2e1f7d6"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "61c2c55b887c0293cdb5e5993f545152b98601f918cff9d64594feb0f47f2994",
+    "sitemap.xml": "f507b1b1a78dd19d6008be605cd8dec88118198ac98237baf80c2656d6f8e9a5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "46359d9e0356e698f27f3c5794c978bafb096c2dfdf00f32a0a560283e7ce527",
+    "robots.txt": "fedd6e14a306b740526b08d3dfbc06b541c666c096edd24188d40a8daa35e40b",
+    "0f885e59f2f8e4008dbf5cb9694297ce.txt": "b1fa6c76805f2a94d23c06b5aa1abec0e2615af1fa9d2e9e09e9a56a4b71604a"
+  },
+  "revision": "691af68163dbfa0001853842197f884d44999454f691bf52750ca9dcf5ff6d5e"
+}

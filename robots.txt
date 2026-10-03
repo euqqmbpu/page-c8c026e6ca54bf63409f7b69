@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-15276bac9c.baoyue0597.cn/sitemap.xml
